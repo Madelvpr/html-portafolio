@@ -48,8 +48,8 @@
 <hr>
 <h3>Otos</h3>
 <ul>
-<li><a href="./hobi">Mis hobbies</a></li>
- <li><a href="./manuela">Mi contacto</a></li>
+<li><a href="./hobi.html">Mis hobbies</a></li>
+ <li><a href="./manuela.html">Mi contacto</a></li>
    </ul>
         <footer>
             <p>© Manuela Peña todos los derechos reservados.</p>
