@@ -1,0 +1,57 @@
+<!doctype html>
+<html long="en">
+<head>
+    <meta charset="utf-8">
+    <title>Mi curriculum</title>
+</head>
+
+<Body>
+  <h1>Manuela Peña</h1>
+  <img src=".//MANUELA.jpg" height="80" alt="manuela"/>
+  <h2>Rusumen</h2>
+   <p>soy una persona que le esta gustan mucho programar</p>  
+
+     <hr >
+     <h2>Educacion</h2>
+
+ <li>Me gradue en el 2023 de bachillerato</li>
+ <hr>
+<h3>Experencia trabajando</h3>
+<ul>
+<h3><li>Todavia no he trabajado, pero pronto lo hare.</h3>
+<p>2025</p> 
+<ul>
+  <li>no se.
+  <li>no.
+  <li>no se.
+</ol>
+</ul><h3><li>tal ves no sepa lo que hago pero luzco genial haciendolo.</h3></ul> 
+<ul></ol></ul>
+<ul>2006</ul>
+<ul>
+ <li>eso.
+ <li>eso mismo.
+ <li>eso mismo.
+ </ul>
+<hr>
+<h2>Habilidades</h2>
+<ul>
+    <li>Se cocinar</li>
+    <li>se me da muy bien hablar mucho</li>
+    <li></li>
+</ul>
+<hr>
+<h3>Premio del mes</h3>
+<ul>
+    <li>La que mas llora</li>
+</ul>
+<hr>
+<h3>Otos</h3>
+<ul>
+<li><a href="./hobi">Mis hobbies</a></li>
+ <li><a href="./manuela">Mi contacto</a></li>
+   </ul>
+        <footer>
+            <p>© Manuela Peña todos los derechos reservados.</p>
+          </footer>
+        </article>
